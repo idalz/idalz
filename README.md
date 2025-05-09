@@ -31,6 +31,7 @@ Here are a few projects where I applied my skills to build real, working solutio
 
 
 ---
+
 ## 🛠️ Core Tech Stack
 
 #### **Languages**  
