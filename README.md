@@ -23,7 +23,7 @@ Here are a few projects where I applied my skills to build real, working solutio
 
 - 📄 **Multi-Source RAG App**  
   Upload documents and ask anything — the app responds intelligently, with fallback to Arxiv and Wikipedia using LangChain agents.  
-  *LangChain · OpenAI · Pinecone · Streamlit · RAG* · Docker
+  *LangChain · OpenAI · Pinecone · Streamlit · RAG · Docker*
 
 - 💬 **Real-Time Chat App**  
   Real-time chatrooms and DMs powered by WebSockets, with secure JWT auth and pub/sub architecture using Redis.  
@@ -64,6 +64,6 @@ Here are a few projects where I applied my skills to build real, working solutio
 ---
 ## 🤝 Let’s connect!
 I’m always open to exciting ideas, roles, or collaborations.
-`
+
 - 🌐 **Portfolio**: [idalz.github.io](https://idalz.github.io/portfolio)  
 - 💼 **LinkedIn**: [linkedin.com/in/idalez](https://www.linkedin.com/in/idalez/)
