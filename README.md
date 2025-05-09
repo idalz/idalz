@@ -65,5 +65,5 @@ Here are a few projects where I applied my skills to build real, working solutio
 ## 🤝 Let’s connect!
 I’m always open to exciting ideas, roles, or collaborations.
 
-- 🌐 **Portfolio**: [idalz.github.io](https://idalz.github.io/portfolio)  
+- 🌐 **Portfolio**: [idalz.github.io/portfolio](https://idalz.github.io/portfolio)  
 - 💼 **LinkedIn**: [linkedin.com/in/idalez](https://www.linkedin.com/in/idalez/)
