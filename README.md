@@ -18,7 +18,7 @@ My work blends practical problem-solving with technologies like
 Here are a few projects where I applied my skills to build real, working solutions.
 
 - 🧠 **AI-Powered Job Application Assistant**  
-  RAG-based system that analyzes and matches resumes to job descriptions, generates custom cover letters, and helps recruiters instantly find top-matching candidates based on job criteria.
+  RAG-based system that analyzes and matches resumes to job descriptions, generates custom cover letters, and helps recruiters instantly find top-matching candidates based on job criteria.  
   *LangChain · OpenAI · FastAPI · Streamlit · Pinecone · PostgreSQL · Docker*
 
 - 📄 **Multi-Source RAG App**  
@@ -28,7 +28,6 @@ Here are a few projects where I applied my skills to build real, working solutio
 - 💬 **Real-Time Chat App**  
   Real-time chatrooms and DMs powered by WebSockets, with secure JWT auth and pub/sub architecture using Redis.  
   *FastAPI · WebSockets · PostgreSQL · Redis · Docker*
-
 
 ---
 
