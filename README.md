@@ -18,7 +18,7 @@ My work blends practical problem-solving with technologies like
 Here are a few projects where I applied my skills to build real, working solutions.
 
 - 🧠 **AI-Powered Job Application Assistant**  
-  RAG-based system that analyzes and matches resumes with job descriptions and generates custom cover letters.  
+  RAG-based system that analyzes and matches resumes to job descriptions, generates custom cover letters, and helps recruiters instantly find top-matching candidates based on job criteria.
   *LangChain · OpenAI · FastAPI · Streamlit · Pinecone · PostgreSQL · Docker*
 
 - 📄 **Multi-Source RAG App**  
