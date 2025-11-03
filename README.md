@@ -2,11 +2,9 @@
   <img src="pics/banner_yannis.png" alt="Yiannis Banner" width="1200" height="500"/>
 </p>
 
-# 👋 Hi, I’m Yannis – AI Engineer & Full-Stack Developer
+# 👋 Hi, I’m Yannis – a Software Engineer with a focus on Backend & AI applications using Python.
 
-**Curious by nature and driven by clarity, I build intelligent systems to solve real-world problems — one project at a time.**
-
-I'm an AI Engineer in training, focused on building tools powered by LLMs, machine learning, and full-stack development.
+**Curious by nature, I build intelligent systems to solve real-world problems — one project at a time.**
 
 My work blends practical problem-solving with technologies like  
 **LangChain**, **OpenAI API**, **FastAPI**, **Pinecone**, **Docker**, and **PostgreSQL**.
